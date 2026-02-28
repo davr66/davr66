@@ -4,7 +4,6 @@ Me chamo David, sou desenvolvedor em formação com foco em desenvolvimento web 
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davr66&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davr66&theme=tokyonight" />
 </p>
 
 ## 🛠 Stack Principal
