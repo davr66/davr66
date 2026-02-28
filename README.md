@@ -2,6 +2,11 @@
 
 Me chamo David, sou desenvolvedor em formação com foco em desenvolvimento web e construção de soluções voltadas à experiência do usuário. Atualmente graduando em Sistemas e Mídias Digitais - UFC.
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davr66&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davr66&theme=tokyonight" />
+</p>
+
 ## 🛠 Stack Principal
 
 ### 💻 Front-end
@@ -35,8 +40,3 @@ Me chamo David, sou desenvolvedor em formação com foco em desenvolvimento web 
 ## Contato
 Email: davisreis11@gmail.com
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davr66&show_icons=true&theme=radical" />
-</p>
